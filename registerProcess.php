@@ -55,7 +55,7 @@
             $directory = "./profile/$username/images";
             mkdir($directory, 0777, true);
             move_uploaded_file($tempName, "profile/$username/images/$fileName");
-            echo "<script>alert('Registrasi Berhasil'); document.location.href='index.html';</script>";
+            echo "<script>alert('Registrasi Berhasil'); document.location.href='index.php';</script>";
         }
 
         

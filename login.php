@@ -28,7 +28,7 @@
                     <label for="login-btn" class="login-button">Login</label>
                 </div>
                 <div class="back-button">
-                    <a href="index.html">Kembali</a>
+                    <a href="index.php">Kembali</a>
                 </div>
             </div>
         </form>
